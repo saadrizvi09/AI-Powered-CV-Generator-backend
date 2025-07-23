@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_project_projects",
+  "info": {
+    "displayName": "project",
+    "icon": "calendar",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ProjectName": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
